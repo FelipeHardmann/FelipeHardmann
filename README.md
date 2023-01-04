@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user={FelipeHardmann}&theme=dark"/>
 </div>
 
-<h2>👨🏾‍💻Tecnologias que eu utlizo: </h2>
+<h2>👨🏾‍💻Tecnologias que eu utilizo: </h2>
 
 <div style="display: flex" height="200">
   <img align="center" alt="Felipe" height="300" width="300" src="https://skillicons.dev/icons?i=py,mysql,js,java,git,html,css,bootstrap,sqlite,linux,vscode&perline=6">
