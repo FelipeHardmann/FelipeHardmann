@@ -16,7 +16,7 @@
 
 <h2>👨🏾‍💻Tecnologias que eu utlizo: </h2>
 
-<div style="display: flex" align="center" height="200">
+<div style="display: flex" height="200">
   <img align="center" alt="Felipe" height="300" width="300" src="https://skillicons.dev/icons?i=py,mysql,js,java,git,html,css,bootstrap,sqlite,linux,vscode&perline=6">
 </div>
   
