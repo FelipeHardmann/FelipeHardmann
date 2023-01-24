@@ -1,5 +1,14 @@
 
-### Olá! Eu sou o Felipe Hardmann ✌️ 😁
+## Olá! Eu sou o Felipe Hardmann ✌️ 😁
+
+### Formações 🎓:
+
+##### Técnico em Desenvolvimento de Sistemas pela instituição SENAI
+##### Cursando Análise e Desenvolvimento de Sistemas pela instituição UCSal
+##### Cursando DataScience na instituição Infinity School
+
+### Experiência:
+##### Trabalhando atualmente na Infinity School 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-hardmann-a0bb22212/)
 
