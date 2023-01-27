@@ -16,6 +16,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHardmann&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 ### Tecnologias que utilizo 👨‍💻
 <div style="display: inline_block"></br>
