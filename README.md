@@ -8,7 +8,8 @@
 ##### Cursando DataScience na instituição Infinity School
 
 ### Experiência:
-##### Trabalhando atualmente na Infinity School 
+##### Trabalhando atualmente na Infinity School como Monitor e professor de Dev Full Stack e DataScience
+##### Trabalhando atualmente como estagiário na Nexxo inteligência empresarial
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-hardmann-a0bb22212/)
 
