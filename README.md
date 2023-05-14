@@ -10,7 +10,7 @@
 ### Experiência:
 #### Trabalhando atualmente na empresa Grupo Plantão como Desenvolvedor full stack Júnior
 ##### Trabalhei na Infinity School como Monitor e professor de Dev Full Stack e DataScience
-##### Trabalhei como estagiário na Nexxo inteligência empresarial
+##### Trabalhei como desenvolvedor na Nexxo inteligência empresarial
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-hardmann-a0bb22212/)
 
