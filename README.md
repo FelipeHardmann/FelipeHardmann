@@ -1,16 +1,17 @@
 
-## Olá! Eu sou o Felipe Hardmann ✌️ 😁
+## Hello! I'm Felipe Hardmann ✌️ 😁
 
-### Formações 🎓:
+### Education 🎓:
 
-##### Técnico em Desenvolvimento de Sistemas pela instituição SENAI
-##### Cursando Análise e Desenvolvimento de Sistemas pela instituição UCSal
-##### Cursando DataScience na instituição Infinity School
+##### Technician in Systems Development by the institution SENAI
+##### Data Science Course at Infinity School
+##### Studying Analysis and Development at UCSal
 
-### Experiência:
-#### Trabalhando atualmente na empresa Grupo Plantão como Desenvolvedor full stack Júnior
-##### Trabalhei na Infinity School como Monitor e professor de Dev Full Stack e DataScience
-##### Trabalhei como desenvolvedor na Nexxo inteligência empresarial
+
+### Experience:
+#### Currently working at Grupo Plantão as a Junior Full Stack Developer
+##### I worked at Infinity School as a Dev Full Stack and Data Science monitor and teacher 
+##### I worked as a software developer at Nexxo inteligência empresarial 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-hardmann-a0bb22212/)
 
@@ -21,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-### Tecnologias que utilizo 👨‍💻
+### Technologies i use 👨‍💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
