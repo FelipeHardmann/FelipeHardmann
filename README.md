@@ -9,7 +9,7 @@
 
 
 ### Experience:
-#### Currently working at Grupo Plantão as a Junior Full Stack Developer
+#### Currently working at Grupo Plantão as a Full Stack Developer
 ##### I worked at Infinity School as a Dev Full Stack and Data Science monitor and teacher 
 ##### I worked as a software developer at Nexxo inteligência empresarial 
 
