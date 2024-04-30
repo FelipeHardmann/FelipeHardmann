@@ -8,7 +8,8 @@
 
 
 ### Experience:
-#### Currently working at Grupo Plantão as a Full Stack Developer
+####   Currently working at MTM Tecnologia as a Back-end Developer
+#####  I worked at Grupo Plantão as a Full Stack Developer
 ##### I worked at Infinity School as a Dev Full Stack and Data Science monitor and teacher 
 ##### I worked as a software developer at Nexxo inteligência empresarial 
 
