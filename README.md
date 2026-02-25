@@ -69,29 +69,17 @@
      <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
      <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
      <img align="center" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-     <img align="center" alt="DynamoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
      <img align="center" alt="Redis" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 </div>
 
 ---
-
 ## Cloud & DevOps ☁️
-<div style="display: inline_block"><br>
-
-  <!-- AWS Core -->
-  <img height="50" src="https://skillicons.dev/icons?i=aws" />
-
-  <!-- AWS Services -->
-  <img height="28" src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/AWS-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-
-  <!-- DevOps -->
-  <img height="50" src="https://skillicons.dev/icons?i=docker" />
-  <img height="50" src="https://skillicons.dev/icons?i=kubernetes" />
-  <img height="50" src="https://skillicons.dev/icons?i=linux" />
-
+<div>
+  <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
 </div>
 
 ---
