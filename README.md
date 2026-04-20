@@ -10,7 +10,7 @@
 
 ### Experience 🚀  
 
-#### Currently working at Aarin Techfin as a Backend Developer (Mid-Level)  
+#### Currently working at Aarin Techfin as a Backend Developer 
 ##### I worked at 4MDG as a Data Engineer (Mid-Level)  
 ##### I worked at MTM Tecnologia as a Back-end Developer  
 ##### I worked at Grupo Plantão as a Full Stack Developer  
